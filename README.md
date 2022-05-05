@@ -8,3 +8,8 @@ Video tutorial del mantenimiento de una computadora [USAC- Mynor_Bautista](https
 # Instalacion de Ubuntu y uso de la terminal
 
 Vista de los manules en [USAC-Mynor_Ramirez](https://myantoniob.github.io/Mantenimiento_Computadora/index2.html).
+
+# Servidor Windows 2016 
+
+Vista de los manules en [USAC-Mynor_Ramirez](https://github.com/myantoniob/Mantenimiento_Computadora/blob/main/index3.html).
+
