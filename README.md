@@ -11,5 +11,5 @@ Vista de los manules en [USAC-Mynor_Ramirez](https://myantoniob.github.io/Manten
 
 # Servidor Windows 2016 
 
-Vista de los manules en [USAC-Mynor_Ramirez](https://github.com/myantoniob/Mantenimiento_Computadora/blob/main/index3.html).
+Vista de los manules en [USAC-Mynor_Ramirez](https://myantoniob.github.io/Mantenimiento_Computadora/index3.html).
 
